@@ -14,7 +14,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="code_health"
+        android:label="爱码士"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
